@@ -1,3 +1,3 @@
-### Personal CS:GO (now CS2?) autoexec config :{
+### Personal _Counter-Strike 2_ (prevously CS:GO) autoexec config :{
 
 (May want to change hud scaling) glhf
